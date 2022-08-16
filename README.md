@@ -12,7 +12,6 @@ This app is a part of Bangkit 2022 Capstone Project from team C22-PS272 (Krizary
 - (ML) M7012G1294 - Kurnia Mayestic Gulo - Universitas Telkom
 - (CC) C2186F1797 - Aqmal Idris Zarkasih  - Universitas Bakrie
 - (CC) C2299F2586 - Iffah Fadhilah  - Universitas Pendidikan Indonesia
-- (MD) A7004G0351 - Aldi Fahmi Sihotang - Institut Teknologi Sepuluh Nopember (Inactive)  
 
 
 ## Background
